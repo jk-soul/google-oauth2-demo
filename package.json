@@ -20,7 +20,7 @@
     "server-destroy": "^1.0.1",
     "express": "^4.16.4",
     "connect-history-api-fallback": "^1.6.0",
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
